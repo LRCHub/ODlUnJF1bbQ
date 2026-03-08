@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "19℃",
+  "base_artist": "君島大空",
+  "createdAt": "2026-03-08T07:06:50.798778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Brief History Of Planet Earth - Live in London, Berlin, Utrecht and Barcelona ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_A_Brief_History_Of_Planet_Earth_-_Live_in_London,_Berlin,_Utrecht_and_Barcelona__King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Brief History of Planet Earth (Live in London, Berlin, Utrecht and Barcelona '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_A_Brief_History_of_Planet_Earth_(Live_in_London,_Berlin,_Utrecht_and_Barcelona_'_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Planet B - Live in London ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Planet_B_-_Live_in_London_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hell - Live in Milan ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Hell_-_Live_in_Milan_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hell (Live in Milan '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Hell_(Live_in_Milan_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Horology - Live in Utrecht '19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Horology_-_Live_in_Utrecht_'19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Horology (Live in Utrech '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/07_Horology_(Live_in_Utrech_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Inner Cell - Live in Utrecht ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/08_Inner_Cell_-_Live_in_Utrecht_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Inner Cell (Live in Utrecht '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/09_Inner_Cell_(Live_in_Utrecht_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let Me Mend The Past - Live in Madrid ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/10_Let_Me_Mend_The_Past_-_Live_in_Madrid_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Me Mend the Past (Live in Madrid '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/11_Let_Me_Mend_the_Past_(Live_in_Madrid_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Loyalty - Live in Utrecht ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/12_Loyalty_-_Live_in_Utrecht_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Loyalty (Live in Utrecht '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/13_Loyalty_(Live_in_Utrecht_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mars for the Rich (Live in Adelaide '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/14_Mars_for_the_Rich_(Live_in_Adelaide_'19)_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mars for the Rich (Live in Asheville '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/15_Mars_for_the_Rich_(Live_in_Asheville_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Murder Of The Universe - Live in Utrecht ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/16_Murder_Of_The_Universe_-_Live_in_Utrecht_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Murder of the Universe (Live in Utrecht '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/17_Murder_of_the_Universe_(Live_in_Utrecht_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "19℃",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/pl_01_19°C_君島大空.txt"
+    }
+  ]
+}
